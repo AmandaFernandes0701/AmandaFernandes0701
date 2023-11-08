@@ -1,18 +1,20 @@
-# 💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
-## 👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
-
-<div style="display: flex; align-items: center;">
-  <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" />
+<div style="display: flex;">
   
-  ## 👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
+  <div style="flex: 1;">
+    
+    # 💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
+
+    ## 👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
+
+    Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedora FullStack em constante evolução. Atualmente, estou cursando Engenharia Elétrica na [UFMG](https://www.ufmg.br/) enquanto mergulho de cabeça no mundo da tecnologia. Meu objetivo é unir o conhecimento de engenharia com minha paixão por desenvolvimento de software.
+    
+  </div>
+  
+  <div style="flex: 1; text-align: right;">
+    <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" />
+  </div>
   
 </div>
-
-<img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" />
-
-
-Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedora FullStack em constante evolução. Atualmente, estou cursando Engenharia Elétrica na [UFMG](https://www.ufmg.br/) enquanto mergulho de cabeça no mundo da tecnologia. Meu objetivo é unir o conhecimento de engenharia com minha paixão por desenvolvimento de software.
-
 ### 📚 O que estou fazendo atualmente
 - 🎓 Estou aprimorando minhas habilidades de desenvolvimento na [Alura](https://alura.com.br/).
 - 🔭 Trabalho em projetos web incríveis na [CPEjr](https://cpejr.com//).
