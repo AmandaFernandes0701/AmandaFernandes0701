@@ -1,6 +1,9 @@
 # 💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
 ## 👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
 
+<img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" />
+
+
 Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedora FullStack em constante evolução. Atualmente, estou cursando Engenharia Elétrica na [UFMG](https://www.ufmg.br/) enquanto mergulho de cabeça no mundo da tecnologia. Meu objetivo é unir o conhecimento de engenharia com minha paixão por desenvolvimento de software.
 
 ### 📚 O que estou fazendo atualmente
