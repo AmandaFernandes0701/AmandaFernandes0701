@@ -3,7 +3,7 @@
 
 Eu sou uma desenvolvedora FullStack e atualmente estou realizando o curso de Engenharia Elétrica na <a href="https://www.ufmg.br/"> UFMG </a>, eu sou uma entusiasta da progtamação e busco sempre me atualizar a respeito das novas tendências do mercado tech.
 
-- 🎓 Atualmente estou estudando desenvolvimento de Software na <a href="alura.com.br/">Alura</a>.
+- 🎓 Atualmente estou estudando desenvolvimento de Software na <a href="https://alura.com.br/">Alura</a>.
 - 🔭 I’m currently working at <a href="https://cpejr.com//">CPEjr</a> on a web electronic point system using graphql and react.
 - 🌱 I'm learning about Next.js, Docker, MySQL and AWS at the moment.
 - 😄 Pronouns: he/him.
