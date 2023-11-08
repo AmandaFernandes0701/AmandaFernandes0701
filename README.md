@@ -1,6 +1,13 @@
 # 💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
 ## 👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
 
+<div style="display: flex; align-items: center;">
+  <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" />
+  
+  ## 👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
+  
+</div>
+
 <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" />
 
 
