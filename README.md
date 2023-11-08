@@ -40,9 +40,9 @@ Olá! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedo
 </div><br/>
 
 
-###💡 Meu propósito
+### 💡 Meu propósito
 Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "Stay hungry, stay foolish." 💭🧠 É a fome de aprender, a ousadia de tentar coisas novas e a paixão por impactar positivamente a vida das pessoas através da programação que me impulsionam a superar desafios e continuar inovando. Neste universo em constante evolução, acredito que a curiosidade e a disposição para arriscar são nossos maiores aliados para alcançar o extraordinário. 🌍🍃
 
-###📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 [![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical)](https://github.com/AmandaFernandes0701/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
