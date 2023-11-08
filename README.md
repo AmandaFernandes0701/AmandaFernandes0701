@@ -3,15 +3,11 @@
 
 Eu sou uma desenvolvedora FullStack e atualmente estou realizando o curso de Engenharia Elétrica na <a href="https://www.ufmg.br/"> UFMG </a>, eu sou uma entusiasta da progtamação e busco sempre me atualizar a respeito das novas tendências do mercado tech.
 
-- 🎓 Atualmente estou estudando desenvolvimento de Software na <a href="[https://www.driven.com.br/](https://alura.com.br/?utm_term=alura&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Institucional&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=386166608&hsa_grp=21666755648&hsa_ad=609948692827&hsa_src=g&hsa_tgt=kwd-300088401&hsa_kw=alura&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBhKQwn3xW4FLgbNUWfte9O1gdUpsSaI5vm0iR_Dtol7Z-l4G34wJLBoClPoQAvD_BwE)">Alura</a>.
+- 🎓 Atualmente estou estudando desenvolvimento de Software na <a href="alura.com.br/">Alura</a>.
 - 🔭 I’m currently working at <a href="https://cpejr.com//">CPEjr</a> on a web electronic point system using graphql and react.
 - 🌱 I'm learning about Next.js, Docker, MySQL and AWS at the moment.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: My favorite drink is coffe ☕ and I can spend hours just talking with someone I like 😄.
-
-### You can contact me by: 
-
-
 
 ### Meus contatos: 
 <div> 
