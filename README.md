@@ -10,7 +10,7 @@ Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolved
 
 ### 🌱 Tecnologias que estou aprendendo
 - 💻 JavaScript, React, MongoDB e Node.js são algumas das tecnologias que estão no meu radar.
-- 🤓 Também tenho muito interesse em aprender Phyton e Next.js!!!
+- 🤓 Também tenho muito interesse em aprender Python e Next.js!!!
 
 ### 💬 Converse comigo!
 - Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/).
