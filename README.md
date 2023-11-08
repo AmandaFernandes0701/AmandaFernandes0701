@@ -45,7 +45,7 @@ Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "S
 ### 📊 Minhas Estatísticas no GitHub
 [![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical)](https://github.com/AmandaFernandes0701/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical)
 
 
 ### ✨ As minhas contribuições
