@@ -16,7 +16,7 @@ Olá! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedo
 - Ou me mande um email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
 - Vamos bater um papo no [Discord](https://discord.com/users/689439173236490249)!
 
-### 🚀Tecnologias que eu uso no meu dia-a-dia :)
+### 🚀Tecnologias que eu uso no meu dia-a-dia (. ❛ ᴗ ❛.)
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
