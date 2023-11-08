@@ -6,8 +6,6 @@
   <a href="https://discord.com/users/689439173236490249" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-### Tecnologias que eu uso no meu dia-a-dia
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
