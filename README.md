@@ -37,7 +37,7 @@ Eu sou uma desenvolvedora FullStack e atualmente estou realizando o curso de Eng
   <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
   ##
 
 [![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical)](https://github.com/AmandaFernandes0701/github-readme-stats)
