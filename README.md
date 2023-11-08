@@ -47,6 +47,15 @@ Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "S
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical)
 
+  <summary>Minhas Estatísticas no GitHub</summary>
+
+  [![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical)](https://github.com/AmandaFernandes0701/github-readme-stats)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical)
+</details>
+
 ### ✨ As minhas contribuições
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/github-contribution-grid-snake.svg" />
 
