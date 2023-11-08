@@ -38,10 +38,10 @@ Eu sou uma desenvolvedora FullStack e atualmente estou realizando o curso de Eng
 </div><br/>
 
 Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
-  ##
   
 <details>
   <summary>:zap: GitHub Stats</summary>
   [![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical)](https://github.com/AmandaFernandes0701/github-readme-stats)
 </details>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
