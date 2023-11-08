@@ -1,5 +1,4 @@
-## Oi, eu sou a Amanda Fernandes!
-### Full Stack Developer | Software Engineer
+## Oiii, eu sou a Amanda Fernandes!
 
 <div> 
   <a href="https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
