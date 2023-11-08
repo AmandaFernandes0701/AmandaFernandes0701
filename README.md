@@ -13,7 +13,7 @@
   <img align="center" alt="Babel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="ESLint" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
-  <img align="center" alt="Prettier" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg">
+  <img align="center" alt="Prettier" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-plain.svg">
 </div>
   
   ##
