@@ -1,15 +1,8 @@
-<div style="display: flex; align-intens: row">
-  <div style="flex: 1;">
-    
-  # 💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
+# 💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
+
   ## 👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
+
 Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedora FullStack em constante evolução. Atualmente, estou cursando Engenharia Elétrica na [UFMG](https://www.ufmg.br/) enquanto mergulho de cabeça no mundo da tecnologia. Meu objetivo é unir o conhecimento de engenharia com minha paixão por desenvolvimento de software.
-  </div>
-  
-  <div style="flex: 1; text-align: right;">
-    <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" />
-  </div>
-</div>
 
 ### 📚 O que estou fazendo atualmente
 - 🎓 Estou aprimorando minhas habilidades de desenvolvimento na [Alura](https://alura.com.br/).
@@ -51,7 +44,7 @@ Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolved
 Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "Stay hungry, stay foolish." 💭🧠 É a fome de aprender, a ousadia de tentar coisas novas e a paixão por impactar positivamente a vida das pessoas através da programação que me impulsionam a superar desafios e continuar inovando. Neste universo em constante evolução, acredito que a curiosidade e a disposição para arriscar são nossos maiores aliados para alcançar o extraordinário. 🌍🍃
 
 ### 📊 Minhas Estatísticas no GitHub
-
+ <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" width="400" height="400" />
 <details>
   <summary> 👩🏽‍🎓 Nível de engajamento </summary>
   <p>
