@@ -20,4 +20,4 @@
   <a href="https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-[![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=cobalt)](https://github.com/AmandaFernandes0701/github-readme-stats)
+[![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=onedark)](https://github.com/AmandaFernandes0701/github-readme-stats)
