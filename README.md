@@ -4,18 +4,23 @@
 
 Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedora FullStack em constante evolução. Atualmente, estou cursando Engenharia Elétrica na [UFMG](https://www.ufmg.br/) enquanto mergulho de cabeça no mundo da tecnologia. Meu objetivo é unir o conhecimento de engenharia com minha paixão por desenvolvimento de software.
 
+<br/>
+
 ### 📚 O que estou fazendo atualmente
 - 🎓 Estou aprimorando minhas habilidades de desenvolvimento na [Alura](https://alura.com.br/).
 - 🔭 Trabalho em projetos web incríveis na [CPEjr](https://cpejr.com//).
+<br/>
 
 ### 🌱 Tecnologias que estou aprendendo
 - 💻 JavaScript, React, MongoDB e Node.js são algumas das tecnologias que estão no meu radar.
 - 🤓 Também tenho muito interesse em aprender Python e Next.js!!!
+<br/>
 
 ### 💬 Converse comigo!
 - Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/).
 - Ou me mande um email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
 - Vamos bater um papo no [Discord](https://discord.com/users/689439173236490249)!
+<br/>
 
 ### 🚀 Tecnologias que eu uso no meu dia-a-dia
 
@@ -39,9 +44,10 @@ Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolved
   <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div><br/>
 
-
 ### 🤔 Meu propósito
 Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "Stay hungry, stay foolish." 💭🧠 É a fome de aprender, a ousadia de tentar coisas novas e a paixão por impactar positivamente a vida das pessoas através da programação que me impulsionam a superar desafios e continuar inovando. Neste universo em constante evolução, acredito que a curiosidade e a disposição para arriscar são nossos maiores aliados para alcançar o extraordinário. 🌍🍃
+
+<br/>
 
 ### 📊 Minhas Estatísticas no GitHub
  <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" width="400" height="400" />
@@ -62,7 +68,7 @@ Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "S
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
-</details>
+</details><br/>
 
 ### ✨ As minhas contribuições
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/github-contribution-grid-snake.svg" />
