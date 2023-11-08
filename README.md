@@ -1,5 +1,4 @@
-<div style="display: flex;">
-  
+<div style="display: flex; align-intens: row">
   <div style="flex: 1;">
     
   # 💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
@@ -10,8 +9,8 @@ Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolved
   <div style="flex: 1; text-align: right;">
     <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" />
   </div>
-  
 </div>
+
 ### 📚 O que estou fazendo atualmente
 - 🎓 Estou aprimorando minhas habilidades de desenvolvimento na [Alura](https://alura.com.br/).
 - 🔭 Trabalho em projetos web incríveis na [CPEjr](https://cpejr.com//).
