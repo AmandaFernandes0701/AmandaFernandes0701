@@ -1,12 +1,26 @@
 ## Oiii, eu sou a Amanda Fernandes!
+### Desenvolvedora FullStack  | Engenheira de Software
 
+Eu sou uma desenvolvedora FullStack e atualmente estou realizando o curso de Engenharia Elétrica na <a href="https://www.ufmg.br/"> UFMG </a>, eu sou uma entusiasta da progtamação e busco sempre me atualizar a respeito das novas tendências do mercado tech.
+
+- 🎓 Atualmente estou estudando desenvolvimento de Software na <a href="[https://www.driven.com.br/](https://alura.com.br/?utm_term=alura&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Institucional&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=386166608&hsa_grp=21666755648&hsa_ad=609948692827&hsa_src=g&hsa_tgt=kwd-300088401&hsa_kw=alura&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBhKQwn3xW4FLgbNUWfte9O1gdUpsSaI5vm0iR_Dtol7Z-l4G34wJLBoClPoQAvD_BwE)">Alura</a>.
+- 🔭 I’m currently working at <a href="https://cpejr.com//">CPEjr</a> on a web electronic point system using graphql and react.
+- 🌱 I'm learning about Next.js, Docker, MySQL and AWS at the moment.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: My favorite drink is coffe ☕ and I can spend hours just talking with someone I like 😄.
+
+### You can contact me by: 
+
+
+
+### Meus contatos: 
 <div> 
   <a href="https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:amandafernandesalves11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/689439173236490249" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-## Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
