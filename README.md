@@ -1,13 +1,13 @@
-# 💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
-## 👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
+#💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
+##👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
 
 Olá! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedora FullStack em constante evolução. Atualmente, estou cursando Engenharia Elétrica na [UFMG](https://www.ufmg.br/) enquanto mergulho de cabeça no mundo da tecnologia. Meu objetivo é unir o conhecimento de engenharia com minha paixão por desenvolvimento de software.
 
-### 📚 O que estou fazendo atualmente
+###📚 O que estou fazendo atualmente
 - 🎓 Estou aprimorando minhas habilidades de desenvolvimento na [Alura](https://alura.com.br/).
 - 🔭 Trabalho em projetos web incríveis na [CPEjr](https://cpejr.com//).
 
-### 🌱 Tecnologias que estou aprendendo
+###🌱 Tecnologias que estou aprendendo
 - 💻 JavaScript, React, MongoDB e Node.js são algumas das tecnologias que estão no meu radar.
 - 🤓 Também tenho muito interesse em aprender Phyton e Next.js!!!
 
@@ -16,7 +16,7 @@ Olá! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedo
 - Ou me mande um email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
 - Vamos bater um papo no [Discord](https://discord.com/users/689439173236490249)!
 
-### 🚀 Tecnologias que eu uso no meu dia-a-dia
+###🚀 Tecnologias que eu uso no meu dia-a-dia
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,9 +40,9 @@ Olá! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedo
 </div><br/>
 
 
-### 💡 Meu propósito
+###💡 Meu propósito
 Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "Stay hungry, stay foolish." 💭🧠 É a fome de aprender, a ousadia de tentar coisas novas e a paixão por impactar positivamente a vida das pessoas através da programação que me impulsionam a superar desafios e continuar inovando. Neste universo em constante evolução, acredito que a curiosidade e a disposição para arriscar são nossos maiores aliados para alcançar o extraordinário. 🌍🍃
 
-### 📊 Minhas Estatísticas no GitHub
+###📊 Minhas Estatísticas no GitHub
 [![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical)](https://github.com/AmandaFernandes0701/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
