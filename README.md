@@ -59,7 +59,7 @@ Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "S
 
 <details>
   <summary>Top Langs</summary>
-  <p>Insira o código do terceiro item aqui</p>
+  <p> [![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical)](https://github.com/AmandaFernandes0701/github-readme-stats)</p>
 </details>
 
 
