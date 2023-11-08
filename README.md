@@ -21,4 +21,4 @@
 </div>
 
 [![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical)](https://github.com/AmandaFernandes0701/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AmandaFernandes0701)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
