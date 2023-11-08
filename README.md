@@ -45,19 +45,19 @@ Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "S
 ### 📊 Minhas Estatísticas no GitHub
 
 <details>
-  <summary> 👩🏽‍🎓 _Nível de engajamento_ </summary>
+  <summary> 👩🏽‍🎓 Nível de engajamento </summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
 </details>
 <details>
-  <summary> 🔥 _GitHub Streak_ </summary>
+  <summary> 🔥 GitHub Streak </summary>
   <p>
     <img src="https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak">
   </p>
 </details>
 <details>
-  <summary> 🗣️ _Principais linguagens_ </summary>
+  <summary> 🗣️ Principais linguagens </summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
