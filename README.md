@@ -45,7 +45,7 @@ Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "S
 ### 📊 Minhas Estatísticas no GitHub
 
 <details>
-  <summary> Minhas Estatísticas no GitHub</summary>
+  <summary> Nível de engajamento</summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
@@ -57,7 +57,7 @@ Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "S
   </p>
 </details>
 <details>
-  <summary> Top Languages</summary>
+  <summary> Principais linguagens</summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
