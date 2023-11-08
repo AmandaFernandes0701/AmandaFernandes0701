@@ -44,7 +44,7 @@ Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolved
 Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "Stay hungry, stay foolish." 💭🧠 É a fome de aprender, a ousadia de tentar coisas novas e a paixão por impactar positivamente a vida das pessoas através da programação que me impulsionam a superar desafios e continuar inovando. Neste universo em constante evolução, acredito que a curiosidade e a disposição para arriscar são nossos maiores aliados para alcançar o extraordinário. 🌍🍃
 
 ### 📊 Minhas Estatísticas no GitHub
- <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" width="350" height="350" />
+ <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" width="400" height="400" />
 <details>
   <summary> 👩🏽‍🎓 Nível de engajamento </summary>
   <p>
