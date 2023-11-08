@@ -54,7 +54,7 @@ Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "S
 
 <details>
   <summary>GitHub Streak</summary>
-  <p>Insira o código do segundo item aqui</p>
+  [![AmandaFernandes0701's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical)](https://github.com/AmandaFernandes0701/github-readme-stats)
 </details>
 
 <details>
