@@ -28,7 +28,7 @@
   <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img align="center" alt="miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
   <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-</div>
+</div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
   ##
