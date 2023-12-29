@@ -6,11 +6,11 @@ Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolved
 
 ### 📚 O que estou fazendo atualmente
 - 🎓 Estou aprimorando minhas habilidades de desenvolvimento na [Alura](https://alura.com.br/).
-- 🔭 Trabalho em projetos web incríveis na [CPEjr](https://cpejr.com//).
+- 🔭 Trabalho em projetos web incríveis na [dti digital](https://www.dtidigital.com.br/).
 
 ### 🌱 Tecnologias que estou aprendendo
 - 💻 JavaScript, React, MongoDB e Node.js são algumas das tecnologias que estão no meu radar.
-- 🤓 Também tenho muito interesse em aprender Python e Next.js!!!
+- 🤓 Também tenho muito interesse em aprender Python, Next.js e C#!!!
 
 ### 💬 Converse comigo!
 - Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/).
