@@ -1,24 +1,24 @@
-# 💕 Olá, sou Amanda Fernandes! (❁´◡`❁)
+# 💕 Hello, I'm Amanda Fernandes! (❁´◡`❁)
 
-  ## 👩🏽‍💻 Desenvolvedora FullStack | Engenheira de Software
+  ## 👩🏽‍💻 FullStack Developer | Software Engineer
 
-Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolvedora FullStack em constante evolução. Atualmente, estou cursando Engenharia Elétrica na [UFMG](https://www.ufmg.br/) enquanto mergulho de cabeça no mundo da tecnologia. Meu objetivo é unir o conhecimento de engenharia com minha paixão por desenvolvimento de software.
+Hey there! 💻 I'm Amanda Fernandes, a programming enthusiast and a constantly evolving FullStack developer. Currently pursuing Electrical Engineering at [UFMG](https://www.ufmg.br/), I'm diving headfirst into the world of technology. My goal is to combine engineering knowledge with my passion for software development.
 
-### 📚 O que estou fazendo atualmente
-- 🎓 Estou aprimorando minhas habilidades de desenvolvimento na [Alura](https://alura.com.br/).
-- 🔭 Trabalho em projetos web incríveis na [dti digital](https://www.dtidigital.com.br/).
+### 📚 What I'm up to
+- 🎓 Enhancing my development skills at [Alura](https://alura.com.br/).
+- 🔭 Working on awesome web projects at [dti digital](https://www.dtidigital.com.br/).
 
-### 🌱 Tecnologias que estou aprendendo
-- 💻 JavaScript, React, MongoDB e Node.js são algumas das tecnologias que estão no meu radar.
-- 🤓 Também tenho muito interesse em aprender Python, Next.js e C#!!!
+### 🌱 Technologies I'm learning
+- 💻 JavaScript, React, MongoDB, and Node.js are some of the technologies on my radar.
+- 🤓 Also keen on learning Python, Next.js, and C#!!!
 
-### 💬 Converse comigo!
-- Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/).
-- Ou me mande um email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
-- Vamos bater um papo no [Discord](https://discord.com/users/689439173236490249)!
+### 💬 Let's chat!
+- Find me on [LinkedIn](https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/).
+- Or shoot me an email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
+- Let's have a conversation on [Discord](https://discord.com/users/689439173236490249)!
 <br/>
 
-### 🚀 Tecnologias que eu uso no meu dia-a-dia
+### 🚀 Technologies I use in my day-to-day
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,13 +40,13 @@ Eiiii! Sou a Amanda Fernandes, uma entusiasta da programação e uma desenvolved
   <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div><br/>
 
-### 🤔 Meu propósito
-Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "Stay hungry, stay foolish." 💭🧠 É a fome de aprender, a ousadia de tentar coisas novas e a paixão por impactar positivamente a vida das pessoas através da programação que me impulsionam a superar desafios e continuar inovando. Neste universo em constante evolução, acredito que a curiosidade e a disposição para arriscar são nossos maiores aliados para alcançar o extraordinário. 🌍🍃
+### 🤔 My purpose
+My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hungry, stay foolish." 💭🧠 It's the hunger to learn, the audacity to try new things, and the passion to positively impact people's lives through coding that drive me to overcome challenges and keep innovating. In this ever-evolving universe, curiosity and the willingness to take risks are our greatest allies to achieve the extraordinary. 🌍🍃
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 My GitHub Stats
  <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" width="200" height="200" />
 <details>
-  <summary> 👩🏽‍🎓 Nível de engajamento </summary>
+  <summary> 👩🏽‍🎓 Engagement Level </summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
@@ -54,11 +54,11 @@ Meu lema na jornada da tecnologia é inspirado na famosa frase de Steve Jobs: "S
 <details>
   <summary> 🔥 GitHub Streak </summary>
   <p>
-    <img src="https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
   </p>
 </details>
 <details>
-  <summary> 🗣️ Principais linguagens </summary>
+  <summary> 🗣️ Top Languages </summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
