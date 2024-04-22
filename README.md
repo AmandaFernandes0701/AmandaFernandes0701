@@ -12,7 +12,7 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, and Node.js are some of the technologies on my radar.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Python, Next.js, and C#!!!
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" />💬 Let's chat!
+###💬 Let's chat!
 - Find me on [LinkedIn](https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/).
 - Or shoot me an email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
 - Let's have a conversation on [Discord](https://discord.com/users/689439173236490249)!
