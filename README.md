@@ -18,7 +18,7 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
 - Let's have a conversation on [Discord](https://discord.com/users/689439173236490249)!
 <br/>
 
-### 🚀 Technologies I use in my day-to-day
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Technologies I use in my day-to-day
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,25 +40,25 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
   <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div><br/>
 
-### 🤔 My purpose
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /> My purpose
 My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hungry, stay foolish." 💭🧠 It's the hunger to learn, the audacity to try new things, and the passion to positively impact people's lives through coding that drive me to overcome challenges and keep innovating. In this ever-evolving universe, curiosity and the willingness to take risks are our greatest allies to achieve the extraordinary. 🌍🍃
 
-### 📊 My GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> My GitHub Stats
  <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" width="200" height="200" />
 <details>
-  <summary> 👩🏽‍🎓 Engagement Level </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Engagement Level </summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AmandaFernandes0701&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
 </details>
 <details>
-  <summary> 🔥 GitHub Streak </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
   <p>
     <img src="https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
   </p>
 </details>
 <details>
-  <summary> 🗣️ Top Languages </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Top Languages </summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
