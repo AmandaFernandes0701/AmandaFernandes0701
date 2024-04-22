@@ -2,17 +2,17 @@
 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Woman Technologist Medium-Dark Skin Tone" width="25" height="25" /> FullStack Developer | Software Engineer
 
-Hey there! 💻 I'm Amanda Fernandes, a programming enthusiast and a constantly evolving FullStack developer. Currently pursuing Electrical Engineering at [UFMG](https://www.ufmg.br/), I'm diving headfirst into the world of technology. My goal is to combine engineering knowledge with my passion for software development.
+Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolving FullStack developer. Currently pursuing Electrical Engineering at [UFMG](https://www.ufmg.br/), I'm diving headfirst into the world of technology. My goal is to combine engineering knowledge with my passion for software development.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> What I'm up to
-- 🎓 Enhancing my development skills at [Alura](https://alura.com.br/).
-- 🔭 Working on awesome web projects at [dti digital](https://www.dtidigital.com.br/).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [Alura](https://alura.com.br/).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Working on awesome web projects at [dti digital](https://www.dtidigital.com.br/).
 
 ### 🌱 Technologies I'm learning
-- 💻 JavaScript, React, MongoDB, and Node.js are some of the technologies on my radar.
-- 🤓 Also keen on learning Python, Next.js, and C#!!!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, and Node.js are some of the technologies on my radar.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Python, Next.js, and C#!!!
 
-### 💬 Let's chat!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" />💬 Let's chat!
 - Find me on [LinkedIn](https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/).
 - Or shoot me an email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
 - Let's have a conversation on [Discord](https://discord.com/users/689439173236490249)!
