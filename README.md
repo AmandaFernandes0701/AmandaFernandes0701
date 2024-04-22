@@ -4,7 +4,7 @@
 
 Hey there! 💻 I'm Amanda Fernandes, a programming enthusiast and a constantly evolving FullStack developer. Currently pursuing Electrical Engineering at [UFMG](https://www.ufmg.br/), I'm diving headfirst into the world of technology. My goal is to combine engineering knowledge with my passion for software development.
 
-### 📚 What I'm up to
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> What I'm up to
 - 🎓 Enhancing my development skills at [Alura](https://alura.com.br/).
 - 🔭 Working on awesome web projects at [dti digital](https://www.dtidigital.com.br/).
 
