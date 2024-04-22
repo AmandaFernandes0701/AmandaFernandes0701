@@ -8,11 +8,11 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [Alura](https://alura.com.br/).
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Working on awesome web projects at [dti digital](https://www.dtidigital.com.br/).
 
-### 🌱 Technologies I'm learning
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" /> Technologies I'm learning
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, and Node.js are some of the technologies on my radar.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Python, Next.js, and C#!!!
 
-### 💬 Let's chat!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> Let's chat!
 - Find me on [LinkedIn](https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/).
 - Or shoot me an email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
 - Let's have a conversation on [Discord](https://discord.com/users/689439173236490249)!
@@ -41,7 +41,7 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
 </div><br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /> My purpose
-My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hungry, stay foolish." 💭🧠 It's the hunger to learn, the audacity to try new things, and the passion to positively impact people's lives through coding that drive me to overcome challenges and keep innovating. In this ever-evolving universe, curiosity and the willingness to take risks are our greatest allies to achieve the extraordinary. 🌍🍃
+My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hungry, stay foolish." 💭🧠 It's the hunger to learn, the audacity to try new things, and the passion to positively impact people's lives through coding that drive me to overcome challenges and keep innovating. In this ever-evolving universe, curiosity and the willingness to take risks are our greatest allies to achieve the extraordinary. 🌍<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="25" height="25" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> My GitHub Stats
  <img alt="kawaii girl" src="https://raw.githubusercontent.com/AmandaFernandes0701/AmandaFernandes0701/output/kawaiiEmoji.gif" width="200" height="200" />
