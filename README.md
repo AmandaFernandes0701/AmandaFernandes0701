@@ -1,4 +1,4 @@
-# 💕 Hello, I'm Amanda Fernandes! (❁´◡`❁)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="25" height="25" /> Hello, I'm Amanda Fernandes! (❁´◡`❁)
 
   ## 👩🏽‍💻 FullStack Developer | Software Engineer
 
