@@ -1,7 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" /> Hello, I'm Amanda Fernandes! (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />´◡`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />)
 
-![OIG](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/4b095ba8-6306-48b2-ac56-5a31b3da084a)
-
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Woman Technologist Medium-Dark Skin Tone" width="25" height="25" /> FullStack Developer | Software Engineer
 
 Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolving FullStack developer. Currently pursuing Electrical Engineering at [UFMG](https://www.ufmg.br/), I'm diving headfirst into the world of technology. My goal is to combine engineering knowledge with my passion for software development.
@@ -54,6 +52,7 @@ My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hun
 </details>
 <details>
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
+  ![OIG](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/4b095ba8-6306-48b2-ac56-5a31b3da084a)
   <p>
     <img src="https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
   </p>
@@ -64,4 +63,3 @@ My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hun
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
 </details>
-![OIG](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/4b095ba8-6306-48b2-ac56-5a31b3da084a)
