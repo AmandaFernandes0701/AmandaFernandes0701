@@ -1,5 +1,6 @@
 
 ![Amanda Fernandes](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/aee25965-3f28-4294-9b6a-b12a384502b4)
+![I'm a Software Engineer](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/a385695f-92d5-41a9-b083-c0a0ba999b65)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" /> Hello, I'm Amanda Fernandes! (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />´◡`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />)
 
