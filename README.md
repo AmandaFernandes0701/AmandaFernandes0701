@@ -3,8 +3,6 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" /> Hello, I'm Amanda Fernandes! (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />´◡`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Thx+4+beeing+here+%3C3)](https://git.io/typing-svg)
-
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Woman Technologist Medium-Dark Skin Tone" width="25" height="25" /> FullStack Developer | Software Engineer
 
 Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolving FullStack developer. Currently pursuing Electrical Engineering at [UFMG](https://www.ufmg.br/), I'm diving headfirst into the world of technology. My goal is to combine engineering knowledge with my passion for software development.
@@ -61,11 +59,11 @@ My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hun
     <img src="https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
   </p>
 </details>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Medium%20Skin%20Tone.png" alt="Heart Hands Medium Skin Tone" width="25" height="25" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 <details>
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Top Languages </summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaFernandes0701&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
 </details>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
