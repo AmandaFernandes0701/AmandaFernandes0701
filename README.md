@@ -25,7 +25,7 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
 
 ### Languages and Technologies
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,python,dotnet,docker,babel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,dotnet,docker,babel" />
 </a>
 
 ### Frameworks and Libraries
