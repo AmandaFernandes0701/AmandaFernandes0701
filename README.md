@@ -47,6 +47,7 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
 My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hungry, stay foolish." It's the hunger to learn, the audacity to try new things, and the passion to positively impact people's lives through coding that drive me to overcome challenges and keep innovating. In this ever-evolving universe, curiosity and the willingness to take risks are our greatest allies to achieve the extraordinary.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
+
 <details>
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Engagement Level </summary>
   <p>
@@ -56,8 +57,7 @@ My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hun
 <details>
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AmandaFernandes0701&theme=radical&hide_border=true&background=000000&stroke=4F9DDE&ring=4F9DDE&fire=DD2727&currStreakNum=4F9DDE&sideNums=4F9DDE&currStreakLabel=4F9DDE&sideLabels=4F9DDE&dates=4F9DDE" alt="GitHub Streak">
-
+    <img src="https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
   </p>
 </details>
 <details>
