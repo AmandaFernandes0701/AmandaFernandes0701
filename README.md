@@ -22,10 +22,24 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mandis_fernandes/)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
-
+### Languages and Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,dotnet,babel,react,nestjs,nextjs,materialui,jest,nodejs,vite,firebase,mongodb,mysql,postgres,git,github,githubactions,gitlab,docker,aws,azure,figma,dynamodb,linux,npm,yarn,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,dotnet,babel" />
+  </a>
+</p>
+
+### Frameworks and Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nestjs,nextjs,materialui,jest,nodejs,vite,firebase,mongodb,mysql,postgres" />
+  </a>
+</p>
+
+### Tools and Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,aws,azure,figma,dynamodb,linux,npm,yarn,netlify,postman" />
   </a>
 </p>
 
