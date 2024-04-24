@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="25" height="25" /> Hello, I'm Amanda Fernandes! (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />´◡`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />)
 
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Woman Technologist Medium-Dark Skin Tone" width="25" height="25" /> FullStack Developer | Software Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=CB42F7&vCenter=true&random=false&width=435&height=27&lines=I'm+a+Software+Engineer;I+live+in+Minas+Gerais%2C+Brazil;I'm+studying+at+UFMG;I+love+anime+and+manga+%3A3;I+speak+eng%2C+fr%2C+ge+and+ofc+pt)](https://git.io/typing-svg)
 
 Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolving FullStack developer. Currently pursuing Electrical Engineering at [UFMG](https://www.ufmg.br/), I'm diving headfirst into the world of technology. My goal is to combine engineering knowledge with my passion for software development.
 
