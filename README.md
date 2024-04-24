@@ -66,4 +66,4 @@ My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hun
   </p>
 </details>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Have+a+nice+day+%3B%29)](https://git.io/typing-svg)
