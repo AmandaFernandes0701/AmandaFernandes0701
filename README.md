@@ -6,6 +6,8 @@
 
 Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolving FullStack developer. Currently pursuing Electrical Engineering at [UFMG](https://www.ufmg.br/), I'm diving headfirst into the world of technology. My goal is to combine engineering knowledge with my passion for software development.
 
+<img align="right" alt="" height="300px" src="https://th.bing.com/th/id/OIG2.NbMwukjzMyzAcbI7VhEw?pid=ImgGn">
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> What I'm up to
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [Alura](https://alura.com.br/).
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Working on awesome web projects at [dti digital](https://www.dtidigital.com.br/).
@@ -14,12 +16,10 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, and Node.js are some of the technologies on my radar.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Python, Next.js, and C#!!!
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> Let's chat!
-- Find me on [LinkedIn](https://www.linkedin.com/in/amanda-fernandes-desenvolvedora-web/).
-- Or shoot me an email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
-- Let's have a conversation on [Discord](https://discord.com/users/689439173236490249)!
-
-![OIG2](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/accef5cf-5379-489c-974c-ee2ea12b94f9)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> Let's connect!
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Technologies I use in my day-to-day
 
@@ -66,5 +66,10 @@ My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hun
   </p>
 </details>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=25&duration=5010&pause=1000&color=AE36F7&random=false&width=435&lines=%F0%9F%92%99+Follow+me+on+Linkedin;%F0%9F%91%80+Check+out+my+projects;%F0%9F%A5%B3+Share+with+your+friends;%F0%9F%A4%97+Have+a+nice+day!!!)](https://git.io/typing-svg)
