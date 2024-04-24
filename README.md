@@ -19,6 +19,8 @@ Hey there! I'm Amanda Fernandes, a programming enthusiast and a constantly evolv
 - Or shoot me an email: [amandafernandesalves11@gmail.com](mailto:amandafernandesalves11@gmail.com).
 - Let's have a conversation on [Discord](https://discord.com/users/689439173236490249)!
 
+![OIG2](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/accef5cf-5379-489c-974c-ee2ea12b94f9)
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Technologies I use in my day-to-day
 
 <div style="display: inline_block">
