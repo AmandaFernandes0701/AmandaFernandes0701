@@ -56,7 +56,8 @@ My mantra in the tech journey is inspired by Steve Jobs' famous quote: "Stay hun
 <details>
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
   <p>
-    <img src="https://streak-stats.demolab.com?user=AmandaFernandes0701&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AmandaFernandes0701&theme=radical&hide_border=true&background=000000&stroke=4F9DDE&ring=4F9DDE&fire=DD2727&currStreakNum=4F9DDE&sideNums=4F9DDE&currStreakLabel=4F9DDE&sideLabels=4F9DDE&dates=4F9DDE" alt="GitHub Streak">
+
   </p>
 </details>
 <details>
