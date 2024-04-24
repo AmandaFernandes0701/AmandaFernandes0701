@@ -1,4 +1,4 @@
-![GitHub Banner Amanda](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/93c25e6c-1291-4d52-9c3e-c125a4aac673)
+![Amanda Fernandes](https://github.com/AmandaFernandes0701/AmandaFernandes0701/assets/116132492/7cff5e35-c118-42fa-b335-ff9524edef35)
 
 # Hello, I'm Amanda Fernandes! (<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />´◡`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" />)
 
