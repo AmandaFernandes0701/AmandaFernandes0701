@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%92%96+I+live+in+Minas+Gerais%2C+Brazil;%F0%9F%A5%B3+I+love+anime+and+manga+%3A3;%F0%9F%91%8C%F0%9F%8F%BD+My+MBTI+is+ENFJ-T;%F0%9F%91%80+I+speak+eng%2C+fr%2C+ge+and+ofc+pt;%F0%9F%A4%97+I+love+coding!!!;%F0%9F%90%B6+I+have+two+dogs+and+I+love+them)](https://git.io/typing-svg)
 
-I'm glad you're here! I'm a programming enthusiast and a FullStack developer, currently pursuing Computer Science at [UFMG](https://ufmg.br/). Combining engineering knowledge with my passion for software development, I aim to continuously improve my technical skills to deliver high-quality results and positively impact people with my work. I'm heavily involved in AWS services and, lately, I've been sharing knowledge on LinkedIn, with dreams of becoming a YouTuber to propagate knowledge. I'm passionate about discussing diversity, equity, and inclusion in the world of technology, firmly believing that women are awesome at programming!
+I'm glad you're here! I'm a programming enthusiast and a FullStack developer, currently pursuing Production Engineering with a focus on Computer Science and Machine Learnin at [UFMG](https://ufmg.br/). Combining engineering knowledge with my passion for software development, I aim to continuously improve my technical skills to deliver high-quality results and positively impact people with my work. I'm heavily involved in AWS services and, lately, I've been sharing knowledge on LinkedIn, with dreams of becoming a YouTuber to propagate knowledge. I'm passionate about discussing diversity, equity, and inclusion in the world of technology, firmly believing that women are awesome at programming!
 
 <img align="right" alt="" height="300px" src="https://th.bing.com/th/id/OIG2.NbMwukjzMyzAcbI7VhEw?pid=ImgGn">
 
@@ -13,8 +13,8 @@ I'm glad you're here! I'm a programming enthusiast and a FullStack developer, cu
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Practicing and constantly learning with [Udemy](https://www.udemy.com/).
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Nail%20Polish%20Medium%20Skin%20Tone.png" alt="Nail Polish Medium Skin Tone" width="30" height="30" /> Technologies I'm learning
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, and Node.js are some of the technologies on my radar.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Python, Next.js, and C#!!!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, TypeScript, and C# are my main programming languages.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> I’m also eager to learn Python and Java!
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Let's connect!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:amandafernandesalves11@gmail.com)
