@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%92%96+I+live+in+Minas+Gerais%2C+Brazil;%F0%9F%A5%B3+I+love+anime+and+manga+%3A3;%F0%9F%91%8C%F0%9F%8F%BD+My+MBTI+is+ENFJ-T;%F0%9F%91%80+I+speak+eng%2C+fr%2C+ge+and+ofc+pt;%F0%9F%A4%97+I+love+coding!!!;%F0%9F%90%B6+I+have+two+dogs+and+I+love+them)](https://git.io/typing-svg)
 
-I'm glad you're here! I'm a programming enthusiast and a FullStack developer, currently pursuing Industrial Engineering with a focus on Computer Science and Machine Learnin at [UFMG](https://ufmg.br/). Combining engineering knowledge with my passion for software development, I aim to continuously improve my technical skills to deliver high-quality results and positively impact people with my work. I'm heavily involved in AWS services and, lately, I've been sharing knowledge on LinkedIn, with dreams of becoming a YouTuber to propagate knowledge. I'm passionate about discussing diversity, equity, and inclusion in the world of technology, firmly believing that women are awesome at programming!
+I’m an Industrial Engineering student at  [UFMG](https://ufmg.br/) (one of the top universities in Latin America 🌎), and I truly love this field. I’m especially passionate about the human side of engineering — processes, product design, sustainability, and ethics in technology. Right now, I’m focused on undergraduate research in Machine Learning and Natural Language Processing (NLP), an area that challenges me a lot and that I’m genuinely enjoying exploring 🤍🤖.
+
+Besides that, I really love programming and problem-solving 🧠✨ I’m into competitive programming and enjoy challenging myself. Solving problems, learning new concepts, and pushing my limits is something I truly enjoy. Coding is both my work and my happy place 😊💖.
 
 <img align="right" alt="" height="300px" src="https://th.bing.com/th/id/OIG2.NbMwukjzMyzAcbI7VhEw?pid=ImgGn">
 
