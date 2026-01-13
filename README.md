@@ -18,6 +18,14 @@ I also love programming and problem-solving 🧠. I’m actively involved in com
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Python** for **Machine Learning and Data Analysis**, **C#** for **backend development and DSA**, and **C++** for **competitive programming**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Focused on **ethical AI, system design**, and building solutions with real-world impact.
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" /> Research & Academic Work
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="25" height="25" /> **Published Paper**  
+  *A Misoginia no YouTube Brasileiro: Um Estudo de Caso sobre o Conteúdo Produzido pela Comunidade Red Pill*  
+  Proceedings of the **31st Brazilian Symposium on Multimedia and the Web (WebMedia 2025)** · Nov 2025  
+  🔗 [Read the article](https://sol.sbc.org.br/index.php/webmedia/article/view/37944/37722)
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" alt="ID Card" width="25" height="25" /> **Curriculum Lattes (CNPq)**  
+  🔗 [View my academic CV](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1594339A1)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Let's connect!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:amandafernandesalves11@gmail.com)
