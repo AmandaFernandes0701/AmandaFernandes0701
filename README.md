@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%92%96+I+live+in+Minas+Gerais%2C+Brazil;%F0%9F%A5%B3+I+love+anime+and+manga+%3A3;%F0%9F%91%8C%F0%9F%8F%BD+My+MBTI+is+ENFJ-T;%F0%9F%91%80+I+speak+eng%2C+fr%2C+ge+and+ofc+pt;%F0%9F%A4%97+I+love+coding!!!;%F0%9F%90%B6+I+have+two+dogs+and+I+love+them)](https://git.io/typing-svg)
 
-I’m an Industrial Engineering student at [UFMG](https://ufmg.br/), one of the top universities in Latin America 🌎. I chose this field because I’m deeply interested in the human side of engineering — processes, product design, sustainability, and ethics in technology. Currently, I’m focused on undergraduate research in Machine Learning and Natural Language Processing (NLP), an area that constantly challenges me and keeps me motivated 🤖✨.
+I’m an Industrial Engineering student at [UFMG](https://ufmg.br/), one of the top universities in Latin America 🌎. I chose this field because I’m deeply interested in the human side of engineering: processes, product design, sustainability, and ethics in technology. Currently, I’m focused on undergraduate research in Machine Learning and Natural Language Processing (NLP), an area that constantly challenges me and keeps me motivated 🤖✨.
 
-I also love programming and problem-solving 🧠. I’m actively involved in competitive programming, where I enjoy solving challenges, learning new concepts, and pushing my limits. For me, coding is not just work — it’s something I genuinely enjoy doing every day 😊💖.
+I also love programming and problem-solving 🧠. I’m actively involved in competitive programming, where I enjoy solving challenges, learning new concepts, and pushing my limits. For me, coding is not just work, it’s something I genuinely enjoy doing every day 😊💖.
 
 <img align="right" alt="" height="300px" src="https://th.bing.com/th/id/OIG2.NbMwukjzMyzAcbI7VhEw?pid=ImgGn">
 
