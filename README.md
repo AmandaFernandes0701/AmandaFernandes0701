@@ -4,19 +4,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%92%96+I+live+in+Minas+Gerais%2C+Brazil;%F0%9F%A5%B3+I+love+anime+and+manga+%3A3;%F0%9F%91%8C%F0%9F%8F%BD+My+MBTI+is+ENFJ-T;%F0%9F%91%80+I+speak+eng%2C+fr%2C+ge+and+ofc+pt;%F0%9F%A4%97+I+love+coding!!!;%F0%9F%90%B6+I+have+two+dogs+and+I+love+them)](https://git.io/typing-svg)
 
-I’m an Industrial Engineering student at  [UFMG](https://ufmg.br/) (one of the top universities in Latin America 🌎), and I truly love this field. I’m especially passionate about the human side of engineering — processes, product design, sustainability, and ethics in technology. Right now, I’m focused on undergraduate research in Machine Learning and Natural Language Processing (NLP), an area that challenges me a lot and that I’m genuinely enjoying exploring 🤍🤖.
+I’m an Industrial Engineering student at  [UFMG](https://ufmg.br/) (one of the top universities in Latin America 🌎), and I truly love this field. I’m especially passionate about the human side of engineering: processes, product design, sustainability, and ethics in technology. Right now, I’m focused on undergraduate research in Machine Learning and Natural Language Processing (NLP), an area that challenges me a lot and that I’m genuinely enjoying exploring 🤍🤖.
 
 Besides that, I really love programming and problem-solving 🧠✨ I’m into competitive programming and enjoy challenging myself. Solving problems, learning new concepts, and pushing my limits is something I truly enjoy. Coding is both my work and my happy place 😊💖.
 
 <img align="right" alt="" height="300px" src="https://th.bing.com/th/id/OIG2.NbMwukjzMyzAcbI7VhEw?pid=ImgGn">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> What I'm up to
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [Alura](https://alura.com.br/).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Practicing and constantly learning with [Udemy](https://www.udemy.com/).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Currently focused on **undergraduate research in Social Computing**, working on **online misogyny classification**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Studying **data analysis, fundamental statistics, ML, and NLP** to build and improve research models.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Nail%20Polish%20Medium%20Skin%20Tone.png" alt="Nail Polish Medium Skin Tone" width="30" height="30" /> Technologies I'm learning
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, TypeScript, and C# are my main programming languages.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> I’m also eager to learn Python and Java!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Python and C#**, with a strong focus on **ML, NLP, and data-driven systems**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Passionate about building **real-world, ethical solutions**, with practical applications and social impact.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Let's connect!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:amandafernandesalves11@gmail.com)
